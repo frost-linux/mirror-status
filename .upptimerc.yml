@@ -14,7 +14,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/frost-linux/frost-linux.github.io/blob/main/variant-1-no-boundary.png?raw=true
   name: Frost Linux Status
   introTitle: "Frost Linux Website Health Monitor."
   introMessage: This website gives an update on the health and uptime of Frost Linux mirrors and related websites.
