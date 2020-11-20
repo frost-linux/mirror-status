@@ -16,13 +16,15 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Frost Linux Status
-  introTitle: "This is Frost Linux's mirror monitor and status page, powered entirely by GitHub."
+  introTitle: "Frost Linux Website Health Monitor."
   introMessage: This website gives an update on the health and uptime of Frost Linux mirrors and related websites.
   navbar:
     - title: Uptime Status
       href: /uptime
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Website
+      href: https://frost-linux.github.io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
