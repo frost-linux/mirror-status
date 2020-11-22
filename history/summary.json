@@ -5,7 +5,7 @@
     "slug": "frost-linux-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 198
+    "time": 195
   },
   {
     "name": "Frost Linux GitHub Mirror",
@@ -13,6 +13,6 @@
     "slug": "frost-linux-git-hub-mirror",
     "status": "up",
     "uptime": "100.00",
-    "time": 26
+    "time": 34
   }
 ]
