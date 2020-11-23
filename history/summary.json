@@ -4,15 +4,15 @@
     "url": "https://frost-linux.github.io",
     "slug": "frost-linux-website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 195
+    "uptime": "100.00%",
+    "time": 169
   },
   {
     "name": "Frost Linux GitHub Mirror",
     "url": "https://frost-linux.github.io/comet",
     "slug": "frost-linux-git-hub-mirror",
     "status": "up",
-    "uptime": "100.00",
-    "time": 34
+    "uptime": "100.00%",
+    "time": 31
   }
 ]
