@@ -1,7 +1,7 @@
 url: https://frost-linux.github.io/comet
-status: up
-code: 200
-responseTime: 26
-lastUpdated: 2021-06-07T23:38:55.859Z
+status: down
+code: 502
+responseTime: 7
+lastUpdated: 2021-06-08T09:55:03.643Z
 startTime: Tue Jan 05 2021 18:14:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
