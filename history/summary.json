@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 143,
-    "timeDay": 84,
+    "timeDay": 332,
     "timeWeek": 357,
-    "timeMonth": 278,
+    "timeMonth": 274,
     "timeYear": 150,
-    "dailyMinutesDown": {
-      "2021-06-08": 42
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Frost Linux GitHub Mirror",
@@ -31,13 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 54,
-    "timeDay": 20,
-    "timeWeek": 176,
-    "timeMonth": 111,
-    "timeYear": 51,
+    "timeDay": 131,
+    "timeWeek": 167,
+    "timeMonth": 113,
+    "timeYear": 52,
     "dailyMinutesDown": {
-      "2021-12-21": 16,
-      "2021-06-08": 42
+      "2021-12-21": 16
     }
   }
 ]
