@@ -4,9 +4,9 @@
     "url": "https://frost-linux.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/frost-linux.github.io.ico",
     "slug": "frost-linux-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 324,
     "timeMonth": 273,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Frost Linux GitHub Mirror",
     "url": "https://frost-linux.github.io/comet",
     "icon": "https://icons.duckduckgo.com/ip3/frost-linux.github.io.ico",
     "slug": "frost-linux-git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 105,
     "timeYear": 67,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2021-12-21": 16
     }
   }
