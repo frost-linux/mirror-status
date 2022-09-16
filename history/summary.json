@@ -6,17 +6,17 @@
     "slug": "frost-linux-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 177,
-    "timeDay": 335,
-    "timeWeek": 331,
-    "timeMonth": 278,
+    "timeDay": 275,
+    "timeWeek": 272,
+    "timeMonth": 275,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-09-15": 57
+      "2022-09-15": 49
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "frost-linux-git-hub-mirror",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 61,
-    "timeDay": 38,
-    "timeWeek": 83,
+    "timeDay": 36,
+    "timeWeek": 56,
     "timeMonth": 101,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2022-09-15": 56,
+      "2022-09-15": 48,
       "2021-12-21": 16
     }
   }
